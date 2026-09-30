@@ -35,15 +35,18 @@ public class Player : AnimatedEntity
     void Update()
     {
         //Animation Handling?
+        AnimationCycle = idle;
 
         //Flip the sprite according to movement direction
         if (direction == Vector3.left)
         {
             sr.flipX = true;
+            AnimationCycle = runCycle;
         }
         else if (direction == Vector3.right)
         {
             sr.flipX = false;
+            AnimationCycle = runCycle;
         }
         AnimationUpdate(); //Animate the character!
     }

@@ -1,3 +1,21 @@
 NPCName,State,Dialogue
-NPC,flagNotTaken,Test1
-NPC,flagNotTaken,Test2
+NPC,flagNotTaken,Can you take that flag?
+NPC,flagNotTaken,It's right behind me
+NPC,flagNotTaken,Dude just grab it
+NPC,flagNotTaken,Are you blind? Get the flag >:(
+NPC,flagNotTaken,I'm sorry for coming off too strong
+NPC,flagNotTaken,But why haven't you taken the flag yet
+NPC,flagNotTaken,Just walk up to it
+NPC,flagNotTaken,Please? For me?
+NPC,flagNotTaken,I'll give you gold
+NPC,flagNotTaken,bruh...
+NPC,flagTaken,Thanks for getting that flag!
+NPC,flagTaken,You're so cool!
+NPC,flagTaken,Woah you're not blind!
+NPC,flagTaken,Congrats! :)
+NPC,flagTaken,"Sorry I'm broke, can't give ya gold"
+NPC,flagTaken,#brokeashell
+NPC,flagTaken,At least you got the flag though
+NPC,flagTaken,Happy for you!
+NPC,flagTaken,anyways... how's your day going
+NPC,flagTaken,I hate small talk

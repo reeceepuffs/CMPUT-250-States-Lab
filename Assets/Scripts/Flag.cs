@@ -12,7 +12,7 @@ public class Flag : MonoBehaviour
         if (other.tag == "Player")
         {
             sr.enabled = false; //Make flag invisible
-            //Change the Game State?
+            GameController.Instance.gameState = "flagTaken"; 
         }
     }
 
